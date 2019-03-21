@@ -1,0 +1,13 @@
+{
+    "targets": [
+        {
+            "email_target": "insertemailhere@gmail.com",
+            "html_content": "Test email. Please ignore."
+        },
+        {
+            "email_target": "insertemailhere@gmail.com",
+            "html_content": "Test email. Please ignore."
+        }
+    ],
+    "html_template": "<html><head><title>Sample</title></head><body>  <p> {inserted_content} <br>  </p>  </body></html>"
+}
